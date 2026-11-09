@@ -15,25 +15,25 @@
 
 ---
 
-![python skills](https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,aiogram,sqlalchemy,pydantic,pytest,numpy,pytorch,tensorflow&theme=dark)
+![python skills](https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,aiogram,sqlalchemy,pydantic,pytest,numpy,pytorch,tensorflow&theme=auto&perline=6)
 
-![golang stack](https://go-skill-icons.vercel.app/api/icons?i=go,gin,gorm&theme=dark)
+![golang stack](https://go-skill-icons.vercel.app/api/icons?i=go,gin,gorm&theme=auto&perline=6)
 
-![frontend skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,ts,tailwind,react,nextjs,zustand,shadcn&theme=dark)
+![frontend skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,ts,tailwind,react,nextjs,zustand,shadcn&theme=auto&perline=6)
 
-![data storage skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,sqlite,redis,s3&theme=dark)
+![data storage skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,sqlite,redis,s3&theme=auto&perline=6)
 
-![env skills](https://go-skill-icons.vercel.app/api/icons?i=linux,docker,kubernetes,rabbitmq,kafka,git,github,gitlab&theme=dark)
+![env skills](https://go-skill-icons.vercel.app/api/icons?i=linux,docker,kubernetes,rabbitmq,kafka,git,github,gitlab&theme=auto&perline=6)
 
-![api skills](https://go-skill-icons.vercel.app/api/icons?i=swagger,grpc,postman&theme=dark)
+![api skills](https://go-skill-icons.vercel.app/api/icons?i=swagger,grpc,postman&theme=auto&perline=6)
 
-![monitoring and analytics skills](https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana&theme=dark)
+![monitoring and analytics skills](https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana&theme=auto&perline=6)
 
-![other skills](https://go-skill-icons.vercel.app/api/icons?i=rust,c,cpp,java,bash&theme=dark)
+![other skills](https://go-skill-icons.vercel.app/api/icons?i=rust,c,cpp,java,bash&theme=auto&perline=6)
 
-![ai skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,grok,gemini,deepseek,claude,cursor&theme=dark)
+![ai skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,grok,gemini,deepseek,claude,cursor&theme=auto&perline=6)
 
-![prog](https://go-skill-icons.vercel.app/api/icons?i=pycharm,webstorm,rustrover,idea,goland,clion,jupyter,googlecolab,chrome,obsidian,windows&theme=dark)
+![prog](https://go-skill-icons.vercel.app/api/icons?i=pycharm,webstorm,rustrover,idea,goland,clion,vscode,vim,neovim,jupyter,googlecolab,chrome,obsidian,windows&theme=auto&perline=6)
 
 ## Ряд SIX SEVEN
 
