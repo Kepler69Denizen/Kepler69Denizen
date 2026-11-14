@@ -14,25 +14,25 @@
 
 ---
 
-![python skills](https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,aiogram,sqlalchemy,pydantic,pytest,numpy,pytorch,tensorflow&theme=auto&perline=6)
+![Python stack](https://skills.syvixor.com/api/icons?i=python,fastapi,sqlalchemy,pydantic,pytest,numpy,pandas,matplotlib,tensorflow,pytorch,uv&perline=6&radius=85)
 
-![golang stack](https://go-skill-icons.vercel.app/api/icons?i=go,gin,gorm&theme=auto&perline=6)
+![Golang stack](https://skills.syvixor.com/api/icons?i=golang,gorm,gin&perline=6&radius=85)
 
-![frontend skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,ts,tailwind,react,nextjs,zustand,shadcn&theme=auto&perline=6)
+![Frontend stack](https://skills.syvixor.com/api/icons?i=html,css3,sass,tailwindcss,javascript,typescript,reactjs,nextjs,zustand,shadcnui,i18next&perline=6&radius=85)
 
-![data storage skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,sqlite,redis,s3&theme=auto&perline=6)
+![Data storage stack](https://skills.syvixor.com/api/icons?i=postgresql,sqlite,redis&perline=6&radius=85)
 
-![env skills](https://go-skill-icons.vercel.app/api/icons?i=linux,docker,kubernetes,rabbitmq,kafka,git,github,gitlab&theme=auto&perline=6)
+![Env stack](https://skills.syvixor.com/api/icons?i=linux,docker,kubernetes,nginx,rabbitmq,kafka,git,github,githubactions,gitlab&perline=6&radius=85)
 
-![api skills](https://go-skill-icons.vercel.app/api/icons?i=swagger,grpc,postman&theme=auto&perline=6)
+![API skills](https://skills.syvixor.com/api/icons?i=openapi,grpc,rest,postman&perline=6&radius=85)
 
-![monitoring and analytics skills](https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana&theme=auto&perline=6)
+![monitoring and analytics skills](https://skills.syvixor.com/api/icons?i=grafana,prometheus&perline=6&radius=85)
 
-![other skills](https://go-skill-icons.vercel.app/api/icons?i=rust,c,cpp,java,bash&theme=auto&perline=6)
+![other skills](https://skills.syvixor.com/api/icons?i=rust,cpp,c,java,bash&perline=6&radius=85)
 
-![ai skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,grok,gemini,deepseek,claude,cursor&theme=auto&perline=6)
+![ai skills](https://skills.syvixor.com/api/icons?i=chatgpt,grok,googlegemini,deepseek,claudeai,cursor&perline=6&radius=85)
 
-![prog](https://go-skill-icons.vercel.app/api/icons?i=pycharm,webstorm,rustrover,idea,goland,clion,vscode,vim,neovim,jupyter,googlecolab,chrome,obsidian,windows&theme=auto&perline=6)
+![prog](https://skills.syvixor.com/api/icons?i=pycharm,webstorm,rustrover,goland,clion,intellijidea,visualstudiocode,vim,neovim,jupyter,googlecolaboratory,googlechrome,obsidian,windows&perline=6&radius=85)
 
 ## Ряд SIX SEVEN
 
